@@ -1,3 +1,4 @@
+- Just learning to use github
 - 👋 Hi, I’m @Vnilabean
 - 👀 I’m interested in game design and program optimization
 - 🌱 I’m currently learning java and unity
