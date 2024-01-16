@@ -5,6 +5,6 @@ I’m an aspiring software developer and cybersecurity professional who is passi
 <h2>🚀 What I’m currently working on</h2>
 I’m solo learning web development frameworks like React, which is a powerful library for building user interfaces.
 I’m also exploring the field of cybersecurity and how to protect systems and data from malicious attacks in my free time from school.
-<h2>📚 What I’m currently learning</h2>
-I am currently enrolled in university studying software development.
+<h2>📚 I am currently enrolled in university studying software development.
+</h2>
 
