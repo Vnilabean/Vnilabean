@@ -1,5 +1,9 @@
 <div align="center">
   
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=PHIL&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=35" />
+
+<br/>
+
   ![Matrix Rain](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%3E%3E%3E+INITIALIZING...;%3E%3E%3E+LOADING+PROFILE...;%3E%3E%3E+SYSTEM+ONLINE)
   
   <br/>
@@ -8,7 +12,6 @@
   
   <br/>
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=PHIL&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=35" />
   
 </div>
 
