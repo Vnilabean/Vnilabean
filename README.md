@@ -4,11 +4,8 @@
 
 <br/>
 
-  ![Matrix Rain](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%3E%3E%3E+INITIALIZING...;%3E%3E%3E+LOADING+PROFILE...;%3E%3E%3E+SYSTEM+ONLINE)
   
-  <br/>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=1000&color=FF00FF&center=true&vCenter=true&width=500&lines=WELCOME+TO+MY+PROFILE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=1000&color=FF00FF&center=true&vCenter=true&width=500&lines=WELCOME+TO+MY+PROFILE!!!" alt="Typing SVG" />
   
   <br/>
   
@@ -26,7 +23,7 @@
 </div>
 
 
-## 💻 **TECH STACK**
+## **TECH STACK**
 
 <div align="center">
   
@@ -44,7 +41,7 @@
 </div>
 
 
-## 📊 **STATS & ACTIVITY**
+## **STATS & ACTIVITY**
 
 <div align="center">
     
@@ -55,44 +52,21 @@
 </div>
 
 
-## 🔨 **CURRENTLY WORKING ON**
-
-<div align="left">
-  
-```rust
-fn main() {
-    let projects = vec![
-        "Secure Systems",
-        "Rust Applications", 
-        "Breaking Things"
-    ];
-    
-    for project in projects {
-        println!("> Building: {}", project);
-    }
-}
-```
-  
-</div>
-
-
-## 🔥 **CONTRIBUTIONS**
+## **CONTRIBUTIONS**
 
 <div align="center">  
   
   
   **🔗 [WatchdogHIDS/Analysis-Engine](https://github.com/WatchdogHIDS/Analysis-Engine)** - A Rust-based microservice for analyzing network traffic, system processes, and security events
   
-  <sub>🔒 Contributing to security-focused Rust microservices</sub>
 
 </div>
 
 
-## 🌐 **CONNECT WITH ME**
+## **CONNECT WITH ME**
 
 <div align="center">
   
-  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=FF00FF)](https://github.com/vnilabean)
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF)](https://linkedin.com/in/philippe-gonzalez-71b532171/)
   [![TryHackMe](https://img.shields.io/badge/TryHackMe-%231DA1F2.svg?style=for-the-badge&logo=TryHackMe&logoColor=white&color=FF00FF)](https://tryhackme.com/p/vnilabean)
   
@@ -104,6 +78,5 @@ fn main() {
 
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=2000&color=00FF41&center=true&vCenter=true&width=600&lines=%3E%3E%3E+SYSTEM+EXIT...;%3E%3E%3E+SEE+YOU+L8R!" />
   
 </div>
